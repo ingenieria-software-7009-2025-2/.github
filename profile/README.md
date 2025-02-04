@@ -19,6 +19,10 @@ Se recomienda ampliamente que se utilice Spring utilizando Kotlin como lenguaje 
 - Sitio oficial de Kotlin: https://kotlinlang.org/docs/getting-started.html
 
 
+La arquitecura a utilizar sera un API REST. Para poder probar nuestro backend sin la necesidad de implementar una interfaz gráfica (y no depender del frontend) utilizaremos una herramienta para realizar los requests HTTP. 
+
+Utilizaremos [Postman](https://www.postman.com/downloads/).
+
 **Base de datos**
 
 Como se mencionan en los lineamiento del proyecto la base de datos es de libre elección (SQLite o MongoDB con una justificación) 
